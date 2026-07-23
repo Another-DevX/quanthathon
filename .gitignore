@@ -1,0 +1,15 @@
+# Archivos y carpetas generados por ejecuciones locales
+qnexus_runs/
+my_job_folder/
+
+# Resultados generados por el notebook
+h2_absolute_errors.csv
+trotter_convergence_results.csv
+
+# Caché de Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Metadatos del sistema
+.DS_Store
