@@ -1,0 +1,17 @@
+# QNexus and circuit tooling used by both notebooks
+qnexus==0.46.0
+pytket==2.18.1
+pytket-offline-display
+
+# Circuit conversion and rendering used by iceberg.ipynb
+qiskit
+pylatexenc
+
+# Numerical analysis, plotting, and notebook utilities
+numpy
+pandas
+matplotlib
+scipy
+sympy
+tqdm
+ipython
